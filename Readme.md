@@ -20,7 +20,7 @@
 | Python     | 3.10  |
 | OS Base    | Debian slim |
 | Docker     | 최신 (23.x 이상 권장) |
-| Kafka Client | confluent-kafka (Python) |
+| Kafka      | 3.8 |
 | 앱 버전    | v1.0.0 |
 
 ---
